@@ -1,5 +1,12 @@
 # aplikasicuaca_kelompok3
 
+Anggota Kelompok 3 :
+- Rosal Haris Madani
+- Alif Nurcahyo
+- Juan Ripandi
+- Muhammad Adam Arisandi
+- Rizky Margianto
+
 A new Flutter project.
 
 ## Getting Started
